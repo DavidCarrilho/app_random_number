@@ -1,7 +1,10 @@
 # app_random_number
 
-A new Flutter project.
+Uma aplicação que traz um número randomico.
 
+<p float="left">
+  <img src="screenshot\app.png" width="200">
+</p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
